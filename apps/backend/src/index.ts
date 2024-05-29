@@ -7,3 +7,5 @@ app.get("/", (req, res) => {
         message: "Hello Turbo"
     })
 })
+
+app.listen(3030)
